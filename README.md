@@ -9,9 +9,7 @@ Just input several numbers until program stops by typing 0, then it will display
 1. Clone the source
 
 ```
-
 https://github.com/ajadamsky/Sum-average-and-count-of-numbers.git
-
 ```
 
 ![1](https://user-images.githubusercontent.com/45263429/58494058-8a6b7b80-8174-11e9-851c-7521861dca1a.png)
