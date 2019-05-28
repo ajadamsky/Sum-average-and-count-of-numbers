@@ -4,7 +4,7 @@
 
 #### A simple application written in C for university project
 
-Just input several numbers until program stops by typing 0, then it will display sum, average and how many times you typed the numbers. 
+Input several numbers until program stops by typing 0, then it will display sum, average and how many times you typed the numbers. 
 
 ## Build
 
@@ -14,4 +14,7 @@ Just input several numbers until program stops by typing 0, then it will display
 https://github.com/ajadamsky/Sum-average-and-count-of-numbers.git
 ```
 
+2. Build 
+
+Configure and build the existing project with selected target "hand_in_2_1". As the program runs, you can simply input  numbers in the console
 
